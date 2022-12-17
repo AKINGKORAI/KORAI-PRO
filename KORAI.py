@@ -1,4 +1,3 @@
-
 #ENJOY GUYS
 from os import path
 import os,base64,zlib,pip,urllib
@@ -58,9 +57,9 @@ logo=("""\033[1;37m
  Facebook  : Ãhmâd Kïñg 
  Tool Name : KORAI-PRO
  Type type : Free
- Version   : 1.9.8
+ Version   : 0.1
 ----------------------------------------------
- KORAI Pro version 1.9.8
+ KORAI Pro version 0.1
  For Haters: Tumhare Okat Nhi  Barabri Karne  Ke 🤞
 \033[1;37m----------------------------------------------""")
 def linex():
